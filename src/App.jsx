@@ -9,7 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
-  const url = "http://localhost:4000"; // API URL
+  const url = "https://backend-hw3v.onrender.com"; // API URL
 
   return (
     <div>
